@@ -1,9 +1,1 @@
-# Eclipse files
-.settings
-.buildpath
-.project
-.pydevproject
-
-# Mejou files
-.old_foundation
-.originaux
+.*
