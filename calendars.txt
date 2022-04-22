@@ -1,0 +1,33 @@
+Avel Mor
+https://calendar.google.com/calendar/ical/af5k69rapojcsl21a1e5pij6ss%40group.calendar.google.com/public/basic.ics
+
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Faf5k69rapojcsl21a1e5pij6ss%2540group.calendar.google.com%2Fpublic%2Fbasic.ics&amp;title=Avel%20Mor&amp;language=fr&amp;skin=dhtmlxscheduler_flat.css&amp;target=_blank&amp;tabs=month"
+    sandbox="allow-scripts allow-same-origin allow-popups"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
+
+
+Ty Papy
+https://calendar.google.com/calendar/ical/flek0iqv4o1nq9ovu7pavgrsrg%40group.calendar.google.com/public/basic.ics
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fflek0iqv4o1nq9ovu7pavgrsrg%2540group.calendar.google.com%2Fpublic%2Fbasic.ics&amp;title=Avel%20Mor&amp;language=fr&amp;skin=dhtmlxscheduler_flat.css&amp;target=_blank&amp;tabs=month"
+    sandbox="allow-scripts allow-same-origin allow-popups"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
+
+
+
+Ty Agathe + Ty Tania
+https://calendar.google.com/calendar/ical/j44pvkq9ft3kvud9348qdbpvf4%40group.calendar.google.com/public/basic.ics
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fj44pvkq9ft3kvud9348qdbpvf4%2540group.calendar.google.com%2Fpublic%2Fbasic.ics&amp;title=Avel%20Mor&amp;language=fr&amp;skin=dhtmlxscheduler_flat.css&amp;target=_blank&amp;tabs=month"
+    sandbox="allow-scripts allow-same-origin allow-popups"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
